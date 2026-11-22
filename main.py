@@ -6,11 +6,12 @@ No network, no input, no dependencies. Run: python3 main.py
 import os
 
 TEXT = (
-    "Rain on the roof, unhurried, spelling nothing. "
-    "The kettle sighs once and settles. "
-    "Your shoulders come down an inch without being asked. "
-    "Somewhere a clock ticks slower than it should, "
-    "and for a while nothing needs you at all."
+    "Afternoon light comes in low and stays a while, "
+    "the colour of honey on a plain wall. "
+    "A cat folds itself into the warm patch and closes its eyes. "
+    "The chair beside it is empty, and in no hurry. "
+    "The light will cross the floor by evening, "
+    "and the room will let it."
 )
 
 def main():
